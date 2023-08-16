@@ -54,3 +54,4 @@ This is a habit tracker application that allows you to track multiple habits on 
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
+# habit-tack
